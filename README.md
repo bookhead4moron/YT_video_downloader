@@ -9,8 +9,7 @@ Intially the GUI will look like :-
 
 <pre>
 Paste Links
-
-(If there are multiple links then separate them by commas)
+(If there are multiple links then separate them by commas(','))
 </pre>
 
 ![](https://github.com/banerjeesatwik/YT_video_downloader/blob/main/images/2.Linkpaste.jpeg)
@@ -25,7 +24,7 @@ Then choose the quality of the video in which the video will be downloaded.
 </pre>
 ![](https://github.com/banerjeesatwik/YT_video_downloader/blob/main/images/4.QualitySelect.jpeg)
 <pre>
-Press the Download Button ,it will start extracting the videos from youtube and downloading them one by one.
+Press the Download Button, it will start extracting the videos from youtube and downloading them one by one.
 </pre>
 ![](https://github.com/banerjeesatwik/YT_video_downloader/blob/main/images/5.Downloading.jpeg)
 <pre>
