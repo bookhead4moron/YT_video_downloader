@@ -15,3 +15,7 @@ Paste Links
 
 ![](https://github.com/banerjeesatwik/YT_video_downloader/blob/main/images/2.Linkpaste.jpeg)
 
+<pre>
+Then choose the destination folder and select the quality in which you want to download the video.
+</pre>
+![](https://github.com/banerjeesatwik/YT_video_downloader/blob/main/images/3.Browse.jpeg)
