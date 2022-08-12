@@ -16,6 +16,19 @@ Paste Links
 ![](https://github.com/banerjeesatwik/YT_video_downloader/blob/main/images/2.Linkpaste.jpeg)
 
 <pre>
-Then choose the destination folder and select the quality in which you want to download the video.
+Then choose the destination folder where the downloaded video will be saved.
 </pre>
 ![](https://github.com/banerjeesatwik/YT_video_downloader/blob/main/images/3.Browse.jpeg)
+
+<pre>
+Then choose the quality of the video in which the video will be downloaded.
+</pre>
+![](https://github.com/banerjeesatwik/YT_video_downloader/blob/main/images/4.QualitySelect.jpeg)
+<pre>
+Press the Download Button ,it will start extracting the videos from youtube and downloading them one by one.
+</pre>
+![](https://github.com/banerjeesatwik/YT_video_downloader/blob/main/images/5.Downloading.jpeg)
+<pre>
+After succesfully download all the videos, it will show a dialog box as confirmation.
+</pre>
+![](https://github.com/banerjeesatwik/YT_video_downloader/blob/main/images/6.Final.jpeg)
