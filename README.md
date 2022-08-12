@@ -5,7 +5,9 @@ GUI
 Intially the GUI will look like :- 
 ![](https://github.com/banerjeesatwik/YT_video_downloader/blob/main/images/1.GUI.jpeg)
 
+<pre>
 Paste Links
 (If there are multiple links then separate them by commas)
 
 ![](https://github.com/banerjeesatwik/YT_video_downloader/blob/main/images/2.Linkpaste.jpeg)
+</pre>
