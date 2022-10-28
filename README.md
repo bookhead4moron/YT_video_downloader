@@ -1,5 +1,6 @@
 # YT_multivideo_downloader
-It is a GUI based application which helps to download multiple videos from YouTube in a bulk.
+- It is a GUI based application which allows the users to download multiple videos from YouTube at the same time with quality specification choice and selection of storage folder.
+- This project is implemented using the TKINTER and PYTUBE libraries of Python
 <pre>
 GUI
 
